@@ -16,7 +16,7 @@
       {
         "vpnName": "USA 1 - UDP",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa1udp.ovpn"
       },
       {
         "vpnName": "USA 1 - TCP",
