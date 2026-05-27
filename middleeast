@@ -66,12 +66,12 @@
       {
         "vpnName": "Germany - UDP",
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa1udp.ovpn"
       },
         {
         "vpnName": "Germany - TCP",
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa1tcp.ovpn"
       },
       {
         "vpnName": "Russia",
