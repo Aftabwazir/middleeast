@@ -32,7 +32,7 @@
       {
         "vpnName": "USA 2 - UDP",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovp",
         "vpnNoAuth": true
       },
       {
