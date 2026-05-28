@@ -6,7 +6,7 @@
       {
         "vpnName": "UAE - UDP",
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/uaeudp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/dubai.ovpn",
         "vpnNoAuth": true
       },
       {
