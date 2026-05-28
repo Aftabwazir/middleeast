@@ -32,13 +32,13 @@
       {
         "vpnName": "USA 2 - UDP",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovp",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa2udp.ovpn",
         "vpnNoAuth": true
       },
       {
         "vpnName": "USA 2 - TCP",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usanew/refs/heads/main/usa.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa2tcp.ovpn",
         "vpnNoAuth": true
       },
       {
