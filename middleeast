@@ -6,7 +6,7 @@
       {
         "vpnName": "UAE - UDP",
         "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/dubai.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn",
         "vpnNoAuth": true
       },
       {
@@ -18,16 +18,15 @@
       {
         "vpnName": "USA 1 - UDP",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa1udp.ovpn",
-        "vpnUser": "aftabwazirzalmi",
-        "vpnPass": "Bannu@@1"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client-tcp.ovpn",
+      "vpnNoAuth": true
       },
       {
         "vpnName": "USA 1 - TCP",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa1tcp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
         "vpnUser": "aftabwazirzalmi",
-        "vpnPass": "Bannu@@1"
+       "vpnNoAuth": true
       },
       {
         "vpnName": "USA 2 - UDP",
@@ -56,7 +55,7 @@
       {
         "vpnName": "France - TCP",
         "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/frtcp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn",
         "vpnNoAuth": true
       },
       {
@@ -74,7 +73,7 @@
       {
         "vpnName": "Canada - TCP",
         "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/catcp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn",
         "vpnNoAuth": true
       },
       {
