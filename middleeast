@@ -4,89 +4,48 @@
     "VpnPassword": "Bannu@@1",
     "VpnList": [
       {
-        "vpnName": "UAE - UDP",
+        "vpnName": "UAE",
         "vpnIso": "ae",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn",
         "vpnNoAuth": true
       },
       {
-        "vpnName": "UAE - TCP",
-        "vpnIso": "ae",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/uaetcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "USA 1 - UDP",
+        "vpnName": "USA 1",
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client-tcp.ovpn",
       "vpnNoAuth": true
       },
       {
-        "vpnName": "USA 1 - TCP",
+        "vpnName": "USA 2",
         "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn",
         "vpnUser": "aftabwazirzalmi",
        "vpnNoAuth": true
       },
+     
       {
-        "vpnName": "USA 2 - UDP",
-        "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa2udp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "USA 2 - TCP",
-        "vpnIso": "us",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/usa2tcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "UK - UDP",
+        "vpnName": "UK",
         "vpnIso": "gb",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/ukudp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ukvpn.ovpn",
         "vpnNoAuth": true
       },
       {
-        "vpnName": "UK - TCP",
-        "vpnIso": "gb",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/uktcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "France - TCP",
+        "vpnName": "France",
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn",
         "vpnNoAuth": true
       },
       {
-        "vpnName": "France - UDP",
-        "vpnIso": "fr",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/frudp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Canada - UDP",
-        "vpnIso": "ca",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/caudp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Canada - TCP",
+        "vpnName": "Canada",
         "vpnIso": "ca",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/canadatcp.ovpn",
         "vpnNoAuth": true
       },
       {
-        "vpnName": "Germany - UDP",
+        "vpnName": "Germany",
         "vpnIso": "de",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
         "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Germany - TCP",
-        "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
-   "vpnNoAuth": true
       },
       {
         "vpnName": "Russia",
