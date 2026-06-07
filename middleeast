@@ -79,16 +79,14 @@
       {
         "vpnName": "Germany - UDP",
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/grudp.ovpn",
-        "vpnUser": "aftabwazirzalmi",
-        "vpnPass": "Bannu@@1"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
+        "vpnNoAuth": true
       },
       {
         "vpnName": "Germany - TCP",
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/grtcp.ovpn",
-        "vpnUser": "aftabwazirzalmi",
-        "vpnPass": "Bannu@@1"
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
+   "vpnNoAuth": true
       },
       {
         "vpnName": "Russia",
