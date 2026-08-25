@@ -44,13 +44,7 @@
       {
         "vpnName": "Germany",
         "vpnIso": "de",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa1%20tcp.ovpn",
-        "vpnNoAuth": true
-      },
-      {
-        "vpnName": "Russia",
-        "vpnIso": "ru",
-        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/usa1udp/refs/heads/main/russiaudp.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn",
         "vpnNoAuth": true
       }
     ]
