@@ -9,6 +9,11 @@
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn",
         "vpnNoAuth": true
       },
+    "vpnName": "Netherlands",
+        "vpnIso": "nl",
+        "vpnFile": "https://srv2045-files.hstgr.io/5067627eb56d7d3c/files/private/NL.ovpn",
+        "vpnNoAuth": true
+      },
       {
         "vpnName": "USA 1",
         "vpnIso": "us",
@@ -29,8 +34,20 @@
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ukvpn.ovpn",
         "vpnNoAuth": true
       },
-      {
+{
+        "vpnName": "UK 2",
+        "vpnIso": "gb",
+        "vpnFile": "https://srv2045-files.hstgr.io/5067627eb56d7d3c/files/private/GB.ovpn",
+        "vpnNoAuth": true
+      },
+    {
         "vpnName": "France",
+        "vpnIso": "fr",
+        "vpnFile": "https://srv2045-files.hstgr.io/5067627eb56d7d3c/files/private/FR.ovpn",
+        "vpnNoAuth": true
+      },
+      {
+        "vpnName": "France 2",
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/france%20tcp.ovpn",
         "vpnNoAuth": true
