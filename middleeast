@@ -12,7 +12,7 @@
       {
         "vpnName": "Netherlands",
         "vpnIso": "nl",
-        "vpnFile": "https://www.zalmiltd.com/NL.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/NL.ovpn",
         "vpnNoAuth": true
       },
       {
