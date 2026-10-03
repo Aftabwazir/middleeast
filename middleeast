@@ -15,6 +15,24 @@
         "vpnFile": "https://www.zalmiltd.com/NL.ovpn",
         "vpnNoAuth": true
       },
+{
+    "vpnName": "Turkey",
+        "vpnIso": "tr",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/TR.ovpn",
+        "vpnNoAuth": true
+      },
+{
+    "vpnName": "Singapore",
+        "vpnIso": "sg",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/SG.ovpn",
+        "vpnNoAuth": true
+      },
+{
+    "vpnName": "Iraq",
+        "vpnIso": "iq",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/IQ.ovpn",
+        "vpnNoAuth": true
+      },
       {
         "vpnName": "USA 1",
         "vpnIso": "us",
@@ -38,13 +56,13 @@
 {
         "vpnName": "UK 2",
         "vpnIso": "gb",
-        "vpnFile": "https://srv2045-files.hstgr.io/5067627eb56d7d3c/files/private/GB.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/GB.ovpn",
         "vpnNoAuth": true
       },
     {
         "vpnName": "France",
         "vpnIso": "fr",
-        "vpnFile": "https://srv2045-files.hstgr.io/5067627eb56d7d3c/files/private/FR.ovpn",
+        "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/FR.ovpn",
         "vpnNoAuth": true
       },
       {
