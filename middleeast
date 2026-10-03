@@ -9,26 +9,26 @@
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/uaetcp.ovpn",
         "vpnNoAuth": true
       },
-{
-    "vpnName": "Netherlands",
+      {
+        "vpnName": "Netherlands",
         "vpnIso": "nl",
         "vpnFile": "https://www.zalmiltd.com/NL.ovpn",
         "vpnNoAuth": true
       },
-{
-    "vpnName": "Turkey",
+      {
+        "vpnName": "Turkey",
         "vpnIso": "tr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/TR.ovpn",
         "vpnNoAuth": true
       },
-{
-    "vpnName": "Singapore",
+      {
+        "vpnName": "Singapore",
         "vpnIso": "sg",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/SG.ovpn",
         "vpnNoAuth": true
       },
-{
-    "vpnName": "Iraq",
+      {
+        "vpnName": "Iraq",
         "vpnIso": "iq",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/IQ.ovpn",
         "vpnNoAuth": true
@@ -37,29 +37,28 @@
         "vpnName": "USA 1",
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/client1.ovpn",
-      "vpnNoAuth": true
+        "vpnNoAuth": true
       },
       {
         "vpnName": "USA 2",
         "vpnIso": "us",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/usa2.ovpn",
         "vpnUser": "aftabwazirzalmi",
-       "vpnNoAuth": true
+        "vpnNoAuth": true
       },
-     
       {
         "vpnName": "UK",
         "vpnIso": "gb",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/vpnfiles/refs/heads/main/ukvpn.ovpn",
         "vpnNoAuth": true
       },
-{
+      {
         "vpnName": "UK 2",
         "vpnIso": "gb",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/GB.ovpn",
         "vpnNoAuth": true
       },
-    {
+      {
         "vpnName": "France",
         "vpnIso": "fr",
         "vpnFile": "https://raw.githubusercontent.com/Aftabwazir/zalmi/refs/heads/main/FR.ovpn",
